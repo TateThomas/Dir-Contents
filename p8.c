@@ -2,7 +2,7 @@
  * Project 8: Read directory and file information
  * CS 3060
  * Author: Tate Thomas
- * Date: 4/22/22
+ * Date: 4/22/23
  *
  * Contains the function inspect_dir for printing a directory and retreiving
  * the total space taken up by that directory, and a main function for using
